@@ -1,6 +1,3 @@
-# Guten Tag!🌚
-
-
 
 <div align="center">
     <img src="https://media.tenor.com/uQHOCWdnoeYAAAAi/astro-bot.gif" alt="Botty" width="500"/>
