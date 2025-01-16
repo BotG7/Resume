@@ -3,11 +3,11 @@
     <img src="https://media.tenor.com/uQHOCWdnoeYAAAAi/astro-bot.gif" alt="Botty" width="500"/>
 </div>
 
-
+<div align="center">
 <a href="https://redos.red-soft.ru">
 <img src="https://img.shields.io/badge/linux-redos-red" alt="linux-redos">
 </a>
-
+</div>
 
 
 
