@@ -4,6 +4,9 @@
 </div>
 
 
+<a href="https://redos.red-soft.ru">
+<img src="https://img.shields.io/badge/linux-redos-red" alt="linux-redos">
+</a>
 
 
 
