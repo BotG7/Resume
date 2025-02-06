@@ -1,2 +1,2 @@
 #!/bin/bash
-shutdown -a
+sudo shutdown -a
