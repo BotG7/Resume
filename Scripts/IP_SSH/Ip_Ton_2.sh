@@ -1,8 +1,7 @@
 #!/bin/bash
-USER_NAME='kabinet202'  # Замените на ваше имя пользователя
 Ip_l='Ip.txt'
 pon=$(whoami)
-COMM="/home/$pon/Документы/clean.sh" #Путь к скрипту на "родительском" пк, который будет перекинут на удаленные.
+COMM="///" #Путь к скрипту на "родительском" пк, который будет перекинут на удаленные.
 
 #Подсчет количества айпи адресов в файле
 ip_count=$(wc -l < "$Ip_l")
@@ -18,7 +17,7 @@ for ((i=1; i<=ip_count; i++)); do
         echo "Подключение к $ip..."
 
         #Определение имени пользователя на удаленном пк
-        user=$(ssh -o StrictHostKeyChecking=no "$USER_NAME@$ip" "whoami" 2>/dev/null)
+        user=$(ssh -o StrictHostKeyChecking=no "$pon@$ip" "whoami" 2>/dev/null)
         exit_status=$?  #Сохраняем вывод $ после выполнения команды
 
         if [ $exit_status -eq 0 ]; then
