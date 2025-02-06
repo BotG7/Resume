@@ -24,7 +24,7 @@ for ((i=1; i<=ip_count; i++)); do
             echo "Определён пользователь: $user"
 
 #Копирование файла на удаленный пк
-            scp "$COMM" "$user@$ip:~/Загрузки/"
+            scp "$COMM" "$user@$ip:/home/"
             
             # Сохраняем PID процесса scp
 
