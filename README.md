@@ -33,6 +33,8 @@ ________________________________________________________________________________
 **ОБУЧЕНИЕ SQLю** : https://botg7.github.io/PredmetyLN/NovelaTest.html
 
 **РАБОТА В КОМАНДЕ** : https://f4licks.github.io/Bryakin-A.-N._algorotmization/
+
+**ТГ-БОТ** : https://docs.google.com/spreadsheets/d/1jx_iyt3dVoqF48WAU3lLq4MaQ3BTS08C8Tlbk3mS9sE/edit?gid=0#gid=0
 ___________________________________________________________________________________________________
 
 ##**Методички:**
